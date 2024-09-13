@@ -1,4 +1,4 @@
 # Wings.demo
 First Git repository
 <br>
-Author - Nikita Gaikwad
+Author - Nikita Gaikwad (Tae)
